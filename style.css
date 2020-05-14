@@ -22,12 +22,18 @@ label{
     font-size:28pt;
     background-color: rgba(0, 128, 128, 0);
     color:rgb(244, 244, 248);
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
 }
 #fortune-input{
     height:100px;
     font-size:28pt;
     background-color: rgba(0, 128, 128, 0);
     color:rgb(244, 244, 248);
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
 }
 .button1{
     display:inline-block;
